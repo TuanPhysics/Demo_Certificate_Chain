@@ -1,0 +1,208 @@
+CONNECTED(00000003)
+depth=2 C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+verify return:1
+depth=1 C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G2
+verify return:1
+depth=0 CN = *.ala.asia-southeast1.emqxsl.com
+verify return:1
+---
+Certificate chain
+ 0 s:CN = *.ala.asia-southeast1.emqxsl.com
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Oct  9 00:00:00 2025 GMT; NotAfter: Nov  9 23:59:59 2026 GMT
+-----BEGIN CERTIFICATE-----
+MIIGNzCCBR+gAwIBAgIQCo79cO+Qqpvfvjme3w+PIDANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzIwHhcNMjUxMDA5MDAwMDAwWhcNMjYxMTA5MjM1OTU5WjAr
+MSkwJwYDVQQDDCAqLmFsYS5hc2lhLXNvdXRoZWFzdDEuZW1xeHNsLmNvbTCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALNspgV5vi7kGnAOI4XJbxPgUIZY
+jnI2kinlbPHGdc7qMQoV0VKPLrqIXYT6d4IL+keOtC7I2iBO8EgZqAwbMwOpFEwC
+COe4TWJbHrm15lD8NY6bZeAdg4axTegKNt1uxjxCTOGn1NEPD4/dCJYtZWne0rhc
+3VLqnYbUCyuyWFJKdOn6XpIhZWqbbZ8dAv/DttjiVCPfY6X5GLmRnCAtV2Js1mT5
+i2SM/MnrMO541aJjVhDVIRZFAptFVZcc8rA6Zbl4l5DJl1e0UedIccPPC/ELT5TL
+1UMuIf2vVz7UYgNkUx5eXPMc5J6d0KaHr8GZGD3/1pQ1SGvtifMCbiK+j/sCAwEA
+AaOCAxIwggMOMB8GA1UdIwQYMBaAFHjfkZBf7t6s9sV169VMVVPvJEq2MB0GA1Ud
+DgQWBBTVBjdLM/uvZvyQG4PuAisk4Iee7zBLBgNVHREERDBCgiAqLmFsYS5hc2lh
+LXNvdXRoZWFzdDEuZW1xeHNsLmNvbYIeYWxhLmFzaWEtc291dGhlYXN0MS5lbXF4
+c2wuY29tMD4GA1UdIAQ3MDUwMwYGZ4EMAQIBMCkwJwYIKwYBBQUHAgEWG2h0dHA6
+Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYw
+FAYIKwYBBQUHAwEGCCsGAQUFBwMCMIGABggrBgEFBQcBAQR0MHIwJAYIKwYBBQUH
+MAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBKBggrBgEFBQcwAoY+aHR0cDov
+L2NhY2VydHMuZGlnaWNlcnQuY29tL0VuY3J5cHRpb25FdmVyeXdoZXJlRFZUTFND
+QS1HMi5jcnQwDAYDVR0TAQH/BAIwADCCAX0GCisGAQQB1nkCBAIEggFtBIIBaQFn
+AHYA1219ENGn9XfCx+lf1wC/+YLJM1pl4dCzAXMXwMjFaXcAAAGZxuW03wAABAMA
+RzBFAiEAodLcVybGbZdH+E2FMvJD6Y9mxRqkgI2sVQ9hTP20EdQCIFty34dlEghb
+ijVQMJBKnh5M/zxRakvrG4Dfijb//3Z8AHYAwjF+V0UZo0XufzjespBB68fCIVoi
+v3/Vta12mtkOUs0AAAGZxuW1HgAABAMARzBFAiBr2uERah7O2oVNEf24HWPTMNTw
+wD0YIAHZQYHvCFPt7wIhAIJQszaIfTB7DtZTXgz1lQw6s+dqgNGAAgaDugWFPEMg
+AHUAlE5Dh/rswe+B8xkkJqgYZQHH0184AgE/cmd9VTcuGdgAAAGZxuW1LgAABAMA
+RjBEAiBQgE6vORMrfYx00MXP1PX1FThnvh2m9ZSGn17F4XTzlQIgWj9Sh3y7t8V3
+ghA1v2iLLoxZ05pUHQ3D4RBrgeh0qMgwDQYJKoZIhvcNAQELBQADggEBAC6xHkc4
+ORz8sI+WcLvUaUEseWu0PLEXtktRXcbW+6jHCm3wpY0W4A8qXUHrBfucgpf895QC
+jluNlJ8KHgHlnk00js9EfIQkpS0KKqN03v3/6I7vA+M0SVXfVjuutdZxS348r9YC
+C5U7JQNdFF6bi7Vrjxts0OTDtm4xmJOV0BS1UdtDVwf0O9b6Aa+yyQFvAvam3mmn
+LRHrntoLFSe8vwZUQCM/ACtSNT+YOBdz/3GWvgSxVyh0/qrHC1/sUXQs5AhE46Sz
+DQL/HWfnL3ibAaj/wB56MoPtvIMWxEH4eZipfujNUAzjLHmOodZ1+ihfg6cx3q+1
+DgnihZ7fG9WDp0g=
+-----END CERTIFICATE-----
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G2
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Nov 27 12:46:40 2017 GMT; NotAfter: Nov 27 12:46:40 2027 GMT
+-----BEGIN CERTIFICATE-----
+MIIEqjCCA5KgAwIBAgIQDeD/te5iy2EQn2CMnO1e0zANBgkqhkiG9w0BAQsFADBh
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBH
+MjAeFw0xNzExMjcxMjQ2NDBaFw0yNzExMjcxMjQ2NDBaMG4xCzAJBgNVBAYTAlVT
+MRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5j
+b20xLTArBgNVBAMTJEVuY3J5cHRpb24gRXZlcnl3aGVyZSBEViBUTFMgQ0EgLSBH
+MjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO8Uf46i/nr7pkgTDqnE
+eSIfCFqvPnUq3aF1tMJ5hh9MnO6Lmt5UdHfBGwC9Si+XjK12cjZgxObsL6Rg1njv
+NhAMJ4JunN0JGGRJGSevbJsA3sc68nbPQzuKp5Jc8vpryp2mts38pSCXorPR+sch
+QisKA7OSQ1MjcFN0d7tbrceWFNbzgL2csJVQeogOBGSe/KZEIZw6gXLKeFe7mupn
+NYJROi2iC11+HuF79iAttMc32Cv6UOxixY/3ZV+LzpLnklFq98XORgwkIJL1HuvP
+ha8yvb+W6JislZJL+HLFtidoxmI7Qm3ZyIV66W533DsGFimFJkz3y0GeHWuSVMbI
+lfsCAwEAAaOCAU8wggFLMB0GA1UdDgQWBBR435GQX+7erPbFdevVTFVT7yRKtjAf
+BgNVHSMEGDAWgBROIlQgGJXm427mD/r6uRLtBhePOTAOBgNVHQ8BAf8EBAMCAYYw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBIGA1UdEwEB/wQIMAYBAf8C
+AQAwNAYIKwYBBQUHAQEEKDAmMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdp
+Y2VydC5jb20wQgYDVR0fBDswOTA3oDWgM4YxaHR0cDovL2NybDMuZGlnaWNlcnQu
+Y29tL0RpZ2lDZXJ0R2xvYmFsUm9vdEcyLmNybDBMBgNVHSAERTBDMDcGCWCGSAGG
+/WwBAjAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BT
+MAgGBmeBDAECATANBgkqhkiG9w0BAQsFAAOCAQEAoBs1eCLKakLtVRPFRjBIJ9LJ
+L0s8ZWum8U8/1TMVkQMBn+CPb5xnCD0GSA6L/V0ZFrMNqBirrr5B241OesECvxIi
+98bZ90h9+q/X5eMyOD35f8YTaEMpdnQCnawIwiHx06/0BfiTj+b/XQih+mqt3ZXe
+xNCJqKexdiB2IWGSKcgahPacWkk/BAQFisKIFYEqHzV974S3FAz/8LIfD58xnsEN
+GfzyIDkH3JrwYZ8caPTf6ZX9M1GrISN8HnWTtdNCH2xEajRa/h9ZBXjUyFKQrGk2
+n2hcLrfZSbynEC/pSw/ET7H5nWwckjmAJ1l9fcnbqkU/pf6uMQmnfl0JQjJNSg==
+-----END CERTIFICATE-----
+ 2 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Jan 18 00:00:00 2024 GMT; NotAfter: Nov  9 23:59:59 2031 GMT
+-----BEGIN CERTIFICATE-----
+MIIEfjCCA2agAwIBAgIQD+Ayq4RNAzEGxQyOE8iwaDANBgkqhkiG9w0BAQsFADBh
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBD
+QTAeFw0yNDAxMTgwMDAwMDBaFw0zMTExMDkyMzU5NTlaMGExCzAJBgNVBAYTAlVT
+MRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5j
+b20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEcyMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzfNNNx7a8myaJCtSnX/RrohCgiN9RlUyfuI
+2/Ou8jqJkTx65qsGGmvPrC3oXgkkRLpimn7Wo6h+4FR1IAWsULecYxpsMNzaHxmx
+1x7e/dfgy5SDN67sH0NO3Xss0r0upS/kqbitOtSZpLYl6ZtrAGCSYP9PIUkY92eQ
+q2EGnI/yuum06ZIya7XzV+hdG82MHauVBJVJ8zUtluNJbd134/tJS7SsVQepj5Wz
+tCO7TG1F8PapspUwtP1MVYwnSlcUfIKdzXOS0xZKBgyMUNGPHgm+F6HmIcr9g+UQ
+vIOlCsRnKPZzFBQ9RnbDhxSJITRNrw9FDKZJobq7nMWxM4MphQIDAQABo4IBMDCC
+ASwwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUTiJUIBiV5uNu5g/6+rkS7QYX
+jzkwHwYDVR0jBBgwFoAUA95QNVbRTLtm8KPiGxvDl7I90VUwDgYDVR0PAQH/BAQD
+AgGGMHQGCCsGAQUFBwEBBGgwZjAjBggrBgEFBQcwAYYXaHR0cDovL29jc3AuZGln
+aWNlcnQuY24wPwYIKwYBBQUHMAKGM2h0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNu
+L0RpZ2lDZXJ0R2xvYmFsUm9vdENBLmNydDBABgNVHR8EOTA3MDWgM6Axhi9odHRw
+Oi8vY3JsLmRpZ2ljZXJ0LmNuL0RpZ2lDZXJ0R2xvYmFsUm9vdENBLmNybDARBgNV
+HSAECjAIMAYGBFUdIAAwDQYJKoZIhvcNAQELBQADggEBAHRBl3jN7+XHBUK0dZnu
+hMdoNwD1nCROU3BTIh1TNzRI0bQ0m5+C/dCRzzlqoSAFHUlOi+OiDltWkXTzmQn6
+Z8bH5PFBy5sYpc/8cNPoSzhyqcpvvEZvv/Ivc0Up+dzma7vBDJC9WrMRUUlSFSQp
+kdXSmphDNkXJsgARmxzc18IN6LYMRiOWlY7RE2F900pPW60BvJHHNCX0bbSRj/Ql
+bmVq8wuftBD++D+RS8K++ujpMjFBROyWfBX+woQDGsMazkmgulQdnZrdj476elOL
+axRvrSgEorju1kJM7M65z2RUZrfzQYW/1rs8mRUXin6iEtad/Rv1ZI1WGYmWPyBm
+pbo=
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=CN = *.ala.asia-southeast1.emqxsl.com
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G2
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4517 bytes and written 421 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: F578196C0C4B8D210078ABC6A9C019606539B11E58CA8CE71227289F376BF416
+    Session-ID-ctx: 
+    Resumption PSK: 3BC14F21343B17AA6AB5BB218BFD38671CDED037420B54329715804A5ECABFF4A6B7301F6781ACC18BB5E4AB4E6A5661
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - b8 5e 37 fb e6 16 3a 39-4f 8a 33 e8 02 fa 08 db   .^7...:9O.3.....
+    0010 - af 7b c2 83 4f 55 42 4b-6b 7c c5 3d fb f7 00 d6   .{..OUBKk|.=....
+    0020 - a2 17 bb 67 25 91 f9 40-44 2e 99 4b a6 bc e1 b5   ...g%..@D..K....
+    0030 - ec 53 98 35 e6 c1 0a 46-1b a9 b8 8c a0 f6 30 a4   .S.5...F......0.
+    0040 - 92 96 79 ad c1 f1 fb 7a-5e 2c 08 85 ac 9f 8a 9b   ..y....z^,......
+    0050 - f9 41 3e 12 0f 96 9e 6c-41 c9 5f ba 79 27 4f c4   .A>....lA._.y'O.
+    0060 - 0e c6 99 34 ce b5 91 a1-69 8e 35 ec c2 d0 bf 94   ...4....i.5.....
+    0070 - 48 4f fe 02 29 6a 5f 58-b9 e5 55 30 14 46 d1 a4   HO..)j_X..U0.F..
+    0080 - 2d c8 11 8d 65 41 57 f0-30 28 cb df 14 bc 22 06   -...eAW.0(....".
+    0090 - 05 e1 ae e0 12 4f 00 7e-65 9e f7 2f ca a6 3e f0   .....O.~e../..>.
+    00a0 - 06 74 16 f5 f7 0b 30 0b-d0 99 7f c6 e1 24 83 40   .t....0......$.@
+    00b0 - 0d 72 d7 17 6a f1 24 c4-9f a8 2c ee 90 8b d0 7a   .r..j.$...,....z
+    00c0 - a6 ed 27 ef 78 00 46 8b-0b e9 d9 c8 fa 15 8e 6a   ..'.x.F........j
+    00d0 - 0c b2 26 90 65 12 3b 4b-29 c4 8e b0 a5 8f 16 c2   ..&.e.;K).......
+    00e0 - 20 a3 3a 8d c6 23 6c b8-2c f4 c2 69 78 ca 9a 1f    .:..#l.,..ix...
+    00f0 - 16 08 b1 cd c0 f7 76 ea-33 ac 40 1e b0 00 6b c4   ......v.3.@...k.
+
+    Start Time: 1763055893
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 289EE13F95F3DCFC639314D07F879AF8ACDC951EACA6B1E7FCF5877D179B7B3B
+    Session-ID-ctx: 
+    Resumption PSK: 0F9C88E9314511D3D3A2D82D387A28D8FA18D507BE79433230F9859F9037A235540F78A8D855A531A89C4F68C3AD2834
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - b8 5e 37 fb e6 16 3a 39-4f 8a 33 e8 02 fa 08 db   .^7...:9O.3.....
+    0010 - 3e e3 74 c4 72 5d a3 f1-cf 3b a7 da bf 40 89 2a   >.t.r]...;...@.*
+    0020 - 47 46 a7 fd 31 00 61 70-7c e6 90 49 43 31 08 eb   GF..1.ap|..IC1..
+    0030 - fb 0f fe af 0b da 33 79-93 2d 88 51 d5 61 4c 22   ......3y.-.Q.aL"
+    0040 - 3f 2f f6 a3 f6 ca 59 e5-e5 ce 4a ae 81 48 97 21   ?/....Y...J..H.!
+    0050 - 47 cc b2 9c 33 c7 38 6c-d4 a4 df 79 6c 5c 47 da   G...3.8l...yl\G.
+    0060 - e3 4a 0c 77 40 87 3b e9-0a 9a 95 4b 44 34 f0 95   .J.w@.;....KD4..
+    0070 - 95 2a 3e 8b 10 18 1c 89-cf 7c b0 d1 4d 68 8a 4c   .*>......|..Mh.L
+    0080 - b9 7a 7d cd d6 01 ed 19-7a 23 3f 86 15 88 5f 61   .z}.....z#?..._a
+    0090 - 22 f7 ac 7e 59 70 1a 31-a8 cc 11 37 cc 64 3f 38   "..~Yp.1...7.d?8
+    00a0 - da 53 6f b7 c4 7f 3a c6-5f 26 20 3b 31 b7 ac f2   .So...:._& ;1...
+    00b0 - eb 30 2f 39 3e 3c 58 95-9a 03 f3 38 c9 8a 8d 50   .0/9><X....8...P
+    00c0 - 3a 33 26 cf 7f f3 45 c8-0d 83 58 11 2f 58 06 a7   :3&...E...X./X..
+    00d0 - 11 43 19 c1 b3 ff 32 e1-af be 39 86 0f 80 03 0a   .C....2...9.....
+    00e0 - 98 8f aa b7 1a 1b 54 8a-77 8e 18 fa 09 16 00 f7   ......T.w.......
+    00f0 - 07 32 90 7e fb 10 e1 68-2c d8 30 85 2b 31 cf 2b   .2.~...h,.0.+1.+
+
+    Start Time: 1763055893
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+closed
