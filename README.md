@@ -67,3 +67,8 @@ Câu trả lời như sau:
 - Lặp lại tất cả các bước kể trên với địa chỉ broker mà bạn đăng ký được trên EMQX 
 - Lặp lại tất cả các bước kể trên với địa chỉ broker mà bạn đăng ký được trên HiveMQ
 - Bạn sẽ thấy HiveMQ hơi khác một chút. Có lẽ tôi sẽ làm cái này cho các bạn xem trước.
+
+## Câu hỏi mở 
+
+- Nếu các bạn dùng mosquitto mqtt broker trên server riêng của các bạn (ví dụ: raspberry Pi) thì việc kết nối TLS (secured client) có cần thiết hay không?
+- Nếu có, thì ta phải làm thế nào?
